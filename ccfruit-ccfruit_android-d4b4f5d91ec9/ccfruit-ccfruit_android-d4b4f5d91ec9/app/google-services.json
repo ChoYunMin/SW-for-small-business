@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1069390024799",
+    "project_id": "homezzang-2c5d8"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069390024799:android:e990e1e0f983d878",
+        "android_client_info": {
+          "package_name": "com.ccfruit.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGBMLqIVMSVBEz6l22zzC5QIB5gndpJMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-77950199-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

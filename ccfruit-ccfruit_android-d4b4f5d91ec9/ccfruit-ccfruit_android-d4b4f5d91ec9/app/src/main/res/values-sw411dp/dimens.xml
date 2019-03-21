@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigation_height">60dp</dimen>
+    <dimen name="navigation_drawer_width">300dp</dimen>
+
+    <dimen name="people_image_top">50dp</dimen>
+    <dimen name="people_select_top">300dp</dimen>
+</resources>

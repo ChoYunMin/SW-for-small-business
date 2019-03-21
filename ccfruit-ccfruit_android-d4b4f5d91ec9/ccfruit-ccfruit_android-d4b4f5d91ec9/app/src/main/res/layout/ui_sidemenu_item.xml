@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent" android:layout_height="@dimen/sidemenu_height"
+    android:background="@drawable/btn_sidemenu_item"
+    android:gravity="center_vertical" android:paddingLeft="5dp">
+
+    <ImageView android:id="@+id/img_icon"
+        android:layout_width="20dp" android:layout_height="20dp"
+        android:layout_marginLeft="20dp" android:scaleType="centerInside"
+        android:background="@color/_null" android:visibility="gone"/>
+
+    <TextView android:id="@+id/txt_title"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="TITLE" android:textSize="18sp" android:textColor="@color/_white"/>
+
+</LinearLayout>

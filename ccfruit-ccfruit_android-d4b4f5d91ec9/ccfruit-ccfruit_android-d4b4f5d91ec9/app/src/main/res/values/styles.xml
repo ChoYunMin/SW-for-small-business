@@ -1,0 +1,41 @@
+<resources>
+    <style name="divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#c0c0c0</item>
+    </style>
+
+    <style name="txt_sidemenu">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@color/_white</item>
+    </style>
+
+    <style name="txt_sidemenu_header" parent="txt_sidemenu">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="btn_sidemenu_white">
+        <item name="android:padding">0dp</item>
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@drawable/btn_main_white_color</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:background">@drawable/btn_sidemenu_white</item>
+    </style>
+
+    <style name="btn_main">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_main</item>
+        <item name="android:textColor">@color/_white</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+</resources>

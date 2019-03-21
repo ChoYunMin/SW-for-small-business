@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="_white">#ffffff</color>
+    <color name="_null">#00000000</color>
+    <color name="_point">#1e76d1</color>
+    <color name="_point_light">#418ddc</color>
+    <color name="_point_transparent">#99caff</color>
+
+    <color name="btn_sidemenu_bg_off">#333333</color>
+    <color name="btn_sidemenu_bg_on">@color/_point_light</color>
+
+    <color name="btn_sidemenu_item_off">@color/_white</color>
+    <color name="btn_sidemenu_item_on">@color/_white</color>
+
+    <color name="btn_main_white_off">@color/_white</color>
+    <color name="btn_main_white_on">@color/_point</color>
+
+    <color name="txt_star_off">#9b9b9b</color>
+    <color name="txt_star_on">#d0021b</color>
+</resources>
